@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SecondApplication</string>
+    <string name="user_input_app">User Input App</string>
+
+    <string name="hint_text">Enter the input here</string>
+    <string name="show_input_btn">Show Input</string>
+</resources>
